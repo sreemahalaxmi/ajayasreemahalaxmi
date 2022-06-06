@@ -11,7 +11,7 @@ import java.lang.annotation.RetentionPolicy;
 {
 
 	public @interface Testinfo {
-	public String developer() default"sheerin";
+	public String developer() default"Anusha";
 
 	public String Developer();
 
